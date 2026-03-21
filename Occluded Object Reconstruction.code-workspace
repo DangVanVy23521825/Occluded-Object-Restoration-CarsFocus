@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Occluded Object Reconstruction",
+			"path": "."
+		},
+		{
+			"name": "Dataset",
+			"path": "../../Downloads/Dataset"
+		}
+	],
+	"settings": {}
+}
