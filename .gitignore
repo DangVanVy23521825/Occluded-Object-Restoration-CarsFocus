@@ -2,3 +2,5 @@ data/
 Occluded Object Reconstruction.code-workspace
 PROJECT_CONTEXT.md
 *.env
+
+results/
