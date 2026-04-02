@@ -4,3 +4,6 @@ PROJECT_CONTEXT.md
 *.env
 
 results/
+results-controlnet/
+
+results-ip-adapter/
