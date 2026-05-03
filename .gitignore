@@ -1,5 +1,4 @@
 data/
-Occluded Object Reconstruction.code-workspace
 PROJECT_CONTEXT.md
 *.env
 
@@ -9,3 +8,7 @@ results-controlnet/
 results-ip-adapter/
 
 cs331_project_guide.md
+
+.venv
+
+
